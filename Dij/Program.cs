@@ -8,6 +8,7 @@ namespace Dijkstra
 {
     class Program
     {
+        //算法实现
         static void Main(string[] args)
         {
             int n = 6, en = 9;
